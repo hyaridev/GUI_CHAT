@@ -1,6 +1,6 @@
 # GUI_CHAT
 
-This Projects was done as a follow along with the channel Neural Nine
+This Projects was done as a follow along with the channel Neural Nine. I changed a few things.
 
 To start it:
   1. git clone
